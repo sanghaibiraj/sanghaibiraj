@@ -16,12 +16,6 @@
 
 ###
 
-<div>
-  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
