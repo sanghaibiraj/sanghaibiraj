@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm ░▒▓█ <span style="color: #007bff;">BIRAJ SANGHAI</span> █▓▒░ </h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive Programmer...................;......Full-Stack Developer......;..............C++ Developer.&color=E4405F"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer...................;......Full-Stack-Developer......;..............C++Developer.&color=E4405F"/>
 </div>
 
 <div>
@@ -13,6 +13,12 @@
 ###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRucW8yOWEwcHlubHVteGoxMnF2cHZpYjFwaHA0ZWNhYXBtNjIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"  />
+
+###
+
+<div>
+  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
+</div>
 
 ###
 
@@ -94,7 +100,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanghaibiraj/sanghaibiraj/output/snake.svg" alt="Snake animation" />
+<div>
+  <img align="left" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/grid_snake.svg"/>
+</div>
 
 ###
 
