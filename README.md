@@ -3,10 +3,6 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer...................;......Full-Stack-Developer......;..............CPP+Developer&color=E4405F"/>
 </div>
 
-<div>
-  <img align="center" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/BreakLine.gif"/>
-</div>
-
 <br/>
 <div>
 
@@ -107,9 +103,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanghaibiraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanghaibiraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghaibiraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghaibiraj&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
   <br />
   <img src="https://streak-stats.demolab.com?user=sanghaibiraj&theme=dracula" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app?username=sanghaibiraj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
