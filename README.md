@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm ░▒▓█ <span style="color: #007bff;">BIRAJ SANGHAI</span> █▓▒░ </h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer...................;......Full-Stack-Developer......;..............C++Developer.&color=E4405F"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer...................;......Full-Stack-Developer......;..............CPP+Developer.&color=E4405F"/>
 </div>
 
 <div>
@@ -109,7 +109,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanghaibiraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghaibiraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sanghaibiraj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanghaibiraj&theme=dracula" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app?username=sanghaibiraj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanghaibiraj&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
