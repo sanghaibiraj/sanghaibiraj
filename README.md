@@ -108,8 +108,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanghaibiraj&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
   <br />
   <img src="https://streak-stats.demolab.com?user=sanghaibiraj&theme=dracula" alt="GitHub Streak" />
+  <br />
   <img src="https://leetcard.jacoblin.cool/sanghaibiraj?theme=nord&font=Kaisei%20HarunoUmi&ext=contest" alt="Leetcode Stats" />
+  <br />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=biraj01&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  <br />
   <img src="https://github-profile-trophy.vercel.app?username=sanghaibiraj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanghaibiraj&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
